@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "824F05EB1F2F58370073D857"
-               BuildableName = "SwiftAccessDemo"
-               BlueprintName = "SwiftAccessDemo"
+               BlueprintIdentifier = "824F05FC1F2F6EE50073D857"
+               BuildableName = "TestModule.framework"
+               BlueprintName = "TestModule"
                ReferencedContainer = "container:SwiftAccessDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "824F05EB1F2F58370073D857"
-            BuildableName = "SwiftAccessDemo"
-            BlueprintName = "SwiftAccessDemo"
-            ReferencedContainer = "container:SwiftAccessDemo.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "824F05EB1F2F58370073D857"
-            BuildableName = "SwiftAccessDemo"
-            BlueprintName = "SwiftAccessDemo"
+            BlueprintIdentifier = "824F05FC1F2F6EE50073D857"
+            BuildableName = "TestModule.framework"
+            BlueprintName = "TestModule"
             ReferencedContainer = "container:SwiftAccessDemo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "824F05EB1F2F58370073D857"
-            BuildableName = "SwiftAccessDemo"
-            BlueprintName = "SwiftAccessDemo"
+            BlueprintIdentifier = "824F05FC1F2F6EE50073D857"
+            BuildableName = "TestModule.framework"
+            BlueprintName = "TestModule"
             ReferencedContainer = "container:SwiftAccessDemo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
